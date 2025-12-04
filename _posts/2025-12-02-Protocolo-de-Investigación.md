@@ -7,23 +7,17 @@ tags: [ Taller de Investigación I ]
 
 ## Antecedentes
 
----
-
 La presente propuesta de investigación se origina como requisito académico de la asignatura Taller de Investigación I, realizada como el proyecto de evaluación final del curso. La elección de la temática responde a la necesidad creciente de abordar el auge y la adopción masiva de las herramientas de Inteligencia Artificial, estableciendo este fenómeno como el eje central para el desarrollo y fundamentación del presente anteproyecto.
 
 En este contexto, la investigación cobra una relevancia práctica inmediata, pues se ha notado que los estudiantes están delegando el pensamiento lógico a la herramienta, lo cual podría estar generando un vacío en su propio proceso de aprendizaje.
 
 ## Definición del Problema
 
----
-
 El problema de investigación consiste en determinar en qué medida el uso intensivo de asistentes de IA generativa (ChatGPT, Copilot) afecta la capacidad de los estudiantes de ingeniería para resolver problemas algorítmicos complejos sin ayuda tecnológica.
 
 En otras palabras, ¿estas herramientas mejoran o entorpecen el desarrollo del pensamiento lógico-matemático?
 
 ## Justificación
-
----
 
 El proyecto aportará datos empíricos sobre erosión cognitiva o aumento cognitivo en programadores novatos. Esto es vital porque actualmente las instituciones educativas están tomando decisiones reactivas (prohibir o ignorar) a las IAs sin entender el potencial e impacto de estas herramientas, tanto bueno como malo.
 
@@ -33,13 +27,9 @@ Se pretende cambiar el paradigma de evaluación: dejar de calificar la sintaxis 
 
 ## Objetivo
 
----
-
 Evaluar la influencia de la IA generativa en el desarrollo del pensamiento lógico-matemático en estudiantes de ingeniería para proponer nuevas estrategias de evaluación y adopción —o prohibición— de éstas tecnologías.
 
 ## Viabilidad
-
----
 
 ### Técnica
 
@@ -54,8 +44,6 @@ No se necesita dinero adicional. El costo es principalmente de tiempo e investig
 Se puede hacer en el plazo de un semestre académico (~5 meses), aprovechando los ciclos de evaluación parcial y final de la asignatura.
 
 ## Límites
-
----
 
 ### Contextuales
 
@@ -75,8 +63,6 @@ El estudio analizará el comportamiento y resultados durante el ciclo escolar Ag
 
 ## Hipótesis
 
----
-
 La dependencia instrumental de la Inteligencia Artificial Generativa para la escritura de código en etapas tempranas de formación correlaciona negativamente con la capacidad de abstracción lógica y resolución de problemas inéditos sin asistencia digital.
 
 ### Supuestos
@@ -85,8 +71,6 @@ La dependencia instrumental de la Inteligencia Artificial Generativa para la esc
 - Se asume que la universidad cuenta con la infraestructura para monitorear o restringir el tráfico de red durante las pruebas controladas (firewalls).
 
 ## Fundamentos
-
----
 
 ### Estado del Arte
 
@@ -113,8 +97,6 @@ Actualmente, existe un vacío normativo institucional: mientras los estudiantes 
 
 ## Método
 
----
-
 Dado el carácter de la problemática, se propone un diseño cuasi-experimental, ya que se trabajará con grupos de estudiantes ya formados (grupos de clase) y no asignados aleatoriamente.
 
 1. **Fase Documental**
@@ -132,7 +114,6 @@ Dado el carácter de la problemática, se propone un diseño cuasi-experimental,
 
 ## Cronograma
 
----
 
 | Fase | Actividad | AGO | SEP | OCT | NOV | DIC |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -147,15 +128,12 @@ Dado el carácter de la problemática, se propone un diseño cuasi-experimental,
 
 ## Conclusiones
 
----
-
 Este estudio no busca rechazar la tecnología reciente, sino encontrar su lugar pedagógico. Se concluye que la integración de la IA en la educación superior tecnológica es inevitable e irreversible. Por tanto, los resultados de esta investigación serán fundamentales para transicionar de un modelo educativo basado en la memorización de sintaxis a uno basado en la ingeniería de sistemas y validación lógica.
 
 Si validamos que el uso no guiado atrofia la lógica, la institución tendrá la evidencia necesaria para modificar su retícula hacia la enseñanza de "pensamiento algorítmico" antes que "programación asistida".
 
 ## Bibliografía
 
----
 
 - Crompton, H., & Burke, D. (2023). *Artificial intelligence in higher education: the state of the field*. International Journal of Educational Technology in Higher Education, 20(1), Article 1.
   [https://doi.org/10.1186/s41239-023-00426-1](https://doi.org/10.1186/s41239-023-00426-1)
